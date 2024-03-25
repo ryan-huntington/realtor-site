@@ -28,5 +28,5 @@ As this project is a work in progress, it is not yet deployed for public access.
 - **Design Refinement:** Refine the design and layout of the website to ensure a polished and professional appearance.
 - **Functionality Enhancement:** Implement additional features and functionality as needed, such as client testimonials, blog posts, or integration with real estate listing platforms.
 
-Feel free to contribute to further development, provide feedback, or suggest improvements to make the website even more effective in showcasing [Your Mother's Name]'s real estate expertise and services.
+Feel free to contribute to further development, provide feedback, or suggest improvements to make the website even more effective in showcasing Robyn Huntington's real estate expertise and services.
 
